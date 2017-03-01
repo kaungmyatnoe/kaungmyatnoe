@@ -1,18 +1,22 @@
 Anti-Mage
 Alchemist
 Ancient Apparation
+Abaddon
+Arc Warden
 Axe
 Bountry Hunter
 Bloodseeker
 Bristleback
-Bird Rider
+Batrider
 Brewmaster
+Bane
 Beastmaster
 Broodmother
 Clinkz
 Clockwerk
 Crystal Maidan
 Choas Knight
+Centaur Warrunner
 Chen
 Dragon Knight
 Drow Ranger
@@ -27,45 +31,82 @@ Earth Spirit
 Ember Spirit
 Enchantrees
 Enigma
+Faceless Void
 Gyrocopter
 Huskar
+Io
+Invoker
 Juggernut
+Jakiro
 Kunkka
+Keeper of the Light
 Lina
 Luna
 Lich
 Lion
+Leshrac
 Lightning
+Legion Commander
+Lycan
+Lone Druid
+Lifestealer
 Magnus
 Morphiling
 Mirana
 Meepo
+Medusa
 Monkey King
 Nature Prophet
 Night Stalker
 Necrophos
+Nyx Assassin
+Naga Siren
 Ominight
+Orge Magi
+Outworld Devourer
+Oracle
 Pudge
-Phanton Assasin
+Phoenix
+Phanton Assassin
 Phanton Lancer
 Puck
 Pugna
 Queen of Pain
 Riki
+Rubick
 Storm Spirit
 Spectre
 Sniper
 Shadow Field
+Shadow Demon
 Sand King
+Skywarth Mage
 Shadow Shaman
 Slardar
 Slark
+Silencer
+Spirit Breaker
 Sven
 Tide Hunter
+Templar Assassin
 Tiny
 Tinker
+Troll Warlord
+Tusker
+Timbersaw
+Treant Protector
+Terroblade
+Techines
+Ursa
 Undying
+Underlord
 Venomancer
+Viper
+Vengeful Spirit
+Visage
 Witch Doctor
+Wraith King
 Weaver
+Winter Wyrven
+Warlock
 Zeus
